@@ -5,7 +5,7 @@ Este repositorio contiene un script para desplegar nuevas instancias multitenant
 ## 🚀 Uso rápido
 
 ```bash
-bash <(curl -s https://raw.githubusercontent.com/tendenciadigitalio/frappe---Multitenant/main/deploy-frappe.sh)
+bash <(curl -s https://raw.githubusercontent.com/tendenciadigitalio/frappe-multitenant/main/deploy-frappe.sh)
 ```
 
 ## 📋 Requisitos
