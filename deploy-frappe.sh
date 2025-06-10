@@ -13,7 +13,7 @@ read -p "🔐 Contraseña root de MySQL (contenedor erpnext_db): " MYSQL_PASS
 
 # Ejecutar dentro del contenedor backend
 echo "🔄 Accediendo al contenedor erpnext_backend..."
-docker exec -i erpnext_backend bash <<EOF
+docker exec -i erpnext_erpnext_backend.1.v5ebvbyragxdv59qjkzjim08j bash <<EOF
 cd /home/frappe/frappe-bench
 
 # Eliminar si existe una instalación previa
